@@ -2,7 +2,7 @@
 
 <div align="center" translate="no">
   <!-- GIF Principal -->
-  <img src="https://giphy.com" width="600" alt="Cybersecurity Terminal">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" alt="Cybersecurity Terminal">
 </div>
 
 <br>
@@ -12,13 +12,13 @@
 ### 💻 Stack Tecnológico & Entorno ⚙️
 
 <!-- Pegatinas protegidas contra traductores -->
-<img src="https://shields.io" alt="Linux">
-<img src="https://shields.io" alt="Bash">
-<img src="https://shields.io" alt="Python">
-<img src="https://shields.io" alt="Git">
-<img src="https://shields.io" alt="GitHub">
-<img src="https://shields.io🛡️-000000?style=for-the-badge" alt="Cybersecurity">
-<img src="https://shields.io" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
 
 </div>
 
@@ -37,7 +37,7 @@
 ### 🛡️ 0x01: ¿Por qué Ciberseguridad & Linux?
 
 <div align="right" translate="no" style="float: right; margin-left: 10px;">
-  <img src="https://giphy.com" width="180" alt="Linux Coding">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="Linux Coding">
 </div>
 
 Desde que descubrí la terminal de **Linux**, entendí lo que es tener el control total de una máquina. Para mí, el pingüino Tux no es solo un logo, es un estilo de vida basado en el código abierto, la automatización y la optimización. 
@@ -55,8 +55,8 @@ Aquí guardo los artefactos desarrollados para la asignatura. Cada script está 
 
 ```bash
 # Para clonar este repositorio y ejecutar los laboratorios:
-git clone https://github.com
-cd mis-proyectos-universidad
+git clone https://github.com/GT-Bin0101/Mis-proyectos-universidad.git
+cd Mis-proyectos-universidad
 ```
 
 ---

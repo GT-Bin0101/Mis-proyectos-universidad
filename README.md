@@ -26,9 +26,9 @@
 ---
 
 ### 👤 $ cat info_estudiante.txt
-* **Carrera:** `[Nombre de tu Carrera]` 🎓
-* **Semestre:** `[Semestre]° Semestre` 🔄
-* **Universidad:** `[Nombre de tu Universidad]` 🏫
+* **Carrera:** `Ingenieria De Sistemas` 🎓
+* **Semestre:** `2° Semestre` 🔄
+* **Universidad:** `Corporación Americana` 🏫
 * **Estado del sistema:** `Estudiando y Compilando...` 🔋
 
 > *"Decidí entrar en este mundo porque la tecnología no solo se trata de usar programas, sino de entender cómo funcionan en sus capas más profundas. Mi meta es dominar la lógica del software y la infraestructura de redes para construir sistemas que sean impenetrables."*
@@ -47,20 +47,6 @@ Desde que descubrí la terminal de **Linux**, entendí lo que es tener el contro
 
 ---
 
-### 📂 0x02: ls -la /proyectos_clase
-Aquí guardo los artefactos desarrollados para la asignatura. Cada script está documentado y estructurado de forma limpia:
-
-* 📄 `perfil_estudiante.py` ➔ Script interactivo que captura variables del perfil del alumno e implementa lógica para identificar tipos primitivos (`str`, `int`, `float`, `bool`).
-* *[Añade aquí otros códigos que tengas con viñetas similares]*
-
-```bash
-# Para clonar este repositorio y ejecutar los laboratorios:
-git clone https://github.com
-cd mis-proyectos-universidad
-python3 perfil_estudiante.py
-```
-
----
 
 ### 🎯 Mis Objetivos Actuales
 - [ ] Aprender scripting avanzado en Bash y automatización en Linux.

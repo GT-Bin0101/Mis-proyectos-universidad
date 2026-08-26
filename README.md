@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="100%" alt="Ventana de comandos con código">
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100%" alt="Ventana de comandos escribiendo código">
 </p>
 
 <div align="center">

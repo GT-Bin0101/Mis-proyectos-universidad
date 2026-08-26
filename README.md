@@ -13,11 +13,10 @@
 
 <!-- Pegatinas / Badges digitales -->
 ![Linux](https://shields.io)
-![GNU Bash](https://shields.io)
+![Bash](https://shields.io)
 ![Python](https://shields.io)
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
-
 ![Cybersecurity](https://shields.io🛡️-000000?style=for-the-badge)
 ![Kali Linux](https://shields.io)
 
@@ -26,9 +25,9 @@
 ---
 
 ### 👤 $ cat info_estudiante.txt
-* **Carrera:** `Ingenieria De Sistemas` 🎓
+* **Carrera:** `Ingeniería De Sistemas` 🎓
 * **Semestre:** `2° Semestre` 🔄
-* **Universidad:** `Corporación Americana` 🏫
+* **Universidad:** `Corporación Universitaria Americana` 🏫
 * **Estado del sistema:** `Estudiando y Compilando...` 🔋
 
 > *"Decidí entrar en este mundo porque la tecnología no solo se trata de usar programas, sino de entender cómo funcionan en sus capas más profundas. Mi meta es dominar la lógica del software y la infraestructura de redes para construir sistemas que sean impenetrables."*
@@ -47,6 +46,16 @@ Desde que descubrí la terminal de **Linux**, entendí lo que es tener el contro
 
 ---
 
+### 📂 0x02: ls -la /proyectos_clase
+Aquí guardo los artefactos desarrollados para la asignatura. Cada script está documentado y estructurado de forma limpia:
+
+```bash
+# Para clonar este repositorio y ejecutar los laboratorios:
+git clone https://github.com
+cd mis-proyectos-universidad
+```
+
+---
 
 ### 🎯 Mis Objetivos Actuales
 - [ ] Aprender scripting avanzado en Bash y automatización en Linux.
